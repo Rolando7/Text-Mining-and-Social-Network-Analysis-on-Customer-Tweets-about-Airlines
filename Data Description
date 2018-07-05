@@ -1,0 +1,22 @@
+#### Following is the Description of the Data used for the analysis:
+
+| Column Name  | Description  | 
+|--------------|--------------|
+|id 	|  Unique Tweet ID|	
+|link		|	Link|		
+|pubdate	| Date of the Tweet |
+|author		|	Handle name |
+|title		|	Title of tweet
+|description	| Tweet text |
+|source	| Mode of Tweet |
+|postertimezone	| Timestamp |
+|user_id	| User ID 	|
+|profile_image_url	| Image |
+|user_statuses_count	| Count of Statuses|
+|user_friends_count	| Friends Count |
+|user_followers_count	| Followers Count
+|user_created_at	|	Timestamp |
+|user_bio	| Bio |
+|user_location	| Location |
+|lang	| Language |
+|coords| Co-ordinates |
